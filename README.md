@@ -1,2 +1,2 @@
 # Grep
-Implementing Grep Functionality using Java
+Implementing Grep CLI Functionality using Java
